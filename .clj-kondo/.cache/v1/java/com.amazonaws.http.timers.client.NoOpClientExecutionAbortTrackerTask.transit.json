@@ -1,0 +1,1 @@
+["^ ","~:members",["^ ","INSTANCE",["~#set",[["^ ","~:flags",["^2",["~:public","~:static","~:field","~:final"]]]]],"setCurrentHttpRequest",["^2",[["^ ","^3",["^2",["~:method","^4"]]]]],"hasTimeoutExpired",["^2",[["^ ","^3",["^2",["^9","^4"]]]]],"isEnabled",["^2",[["^ ","^3",["^2",["^9","^4"]]]]],"cancelTask",["^2",[["^ ","^3",["^2",["^9","^4"]]]]]]]

@@ -1,0 +1,1 @@
+["^ ","~$hello-datomic-conn",["^ ","~:row",7,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$hello-datomic.setup","~:top-ns","^7","~:type","~:fn"],"~$conn",["^ ","^1",15,"^2",1,"^5","^;","^6","^7","^8","^7"],"~:filename","/Users/rafaela.cassiano/dev/nu/cursos/curso-nu/hello-datomic/src/hello_datomic/setup.clj"]

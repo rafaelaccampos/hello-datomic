@@ -1,0 +1,1 @@
+["^ ","~:members",["^ ","registerConnectionManager",["~#set",[["^ ","~:flags",["^2",["~:method","~:public","~:static"]]]]],"removeConnectionManager",["^2",[["^ ","^3",["^2",["^4","^5","^6"]]]]],"getRegisteredConnectionManagers",["^2",[["^ ","^3",["^2",["^4","^5","^6"]]]]],"shutdown",["^2",[["^ ","^3",["^2",["^4","^5","^6"]]]]],"run",["^2",[["^ ","^3",["^2",["^4","^5"]]]]]]]
