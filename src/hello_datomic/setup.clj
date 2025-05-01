@@ -34,7 +34,7 @@
 ])
 
 ;;Now that our database has some data. We can query it using
-@(d/q '[:find ?n
+(d/q '[:find ?n
        :where [?e :person/first-name ?n]]
      (d/db conn))
 ;;#{["Noah"] ["Laura"] ["Arthur"] ["Helena"] ["Alice"] ["Miguel"]}
